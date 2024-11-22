@@ -48,7 +48,7 @@ body {
     height: 100vh;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    grid-template-rows: 200px repeat(5, 200px);
+    grid-template-rows: 200px repeat(5, 150px);
     grid-column-gap: 0px;
     grid-row-gap: 0px;
 }
